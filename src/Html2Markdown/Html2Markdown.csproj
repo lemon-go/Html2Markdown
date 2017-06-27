@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFrameworks>net45;net40;netstandard1.3;netstandard1.4</TargetFrameworks>
+    <DebugType>full</DebugType>
     <Authors>Simon Baynes</Authors>
     <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/baynezy/Html2Markdown</PackageProjectUrl>
